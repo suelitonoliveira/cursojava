@@ -6,4 +6,8 @@ public class Account {
 	private String holver;
 	private Double balance;
 
+	
+	public Account() {
+		
+	}
 }
